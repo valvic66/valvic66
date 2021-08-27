@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Valentin
+- 👀 I’m interested in web development and everything related to coding
+- 🌱 I’m currently learning web development in depth and React Native
+- 💞️ I’m looking to collaborate on any challanging project related to web and mobile development
+- 📫 How to reach me: valvic6@gmail.com
